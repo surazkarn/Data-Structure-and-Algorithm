@@ -1,0 +1,26 @@
+//1.Write a menu driven program to implement queue operations such as Enqueue,
+Dequeue, Peek, Display of elements, IsEmpty, IsFull using static array.
+
+//2.Write a menu driven program to implement queue operations such as Enqueue,
+Dequeue, Peek, Display of elements, IsEmpty using linked list.
+
+//3.Write a menu driven program to implement circular queue operations such as
+Enqueue, Dequeue, Peek, Display of elements, IsEmpty, IsFull using
+static array.
+
+/4.Write a menu driven program to implement Deques (both
+Input-restricted and Output-restricted) operations such as Enqueue,
+Dequeue, Peek, Display of elements, IsEmpty, IsFull using static array.
+
+//5.Write a menu driven program to implement circular queue operations such as
+Enqueue, Dequeue, Peek, Display of elements, IsEmpty using linked list.
+
+//6.A stack data structure is given with push and pop operations. WAP to
+implement a queue using instances of stack data structure and operations      
+on them.
+
+
+
+7.A queue data structure is given with enqueue and dequeue
+operations. WAP to implement a stack using instances of queue data
+structure and operations on them.

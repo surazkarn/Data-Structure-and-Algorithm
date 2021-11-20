@@ -1,4 +1,5 @@
-// 6.WAP to reverse a stack with using extra stack.
+// 1.WAP to reverse a stack with using extra stack.
+
 #include<stdio.h>
 #include<string.h>
 # define MAX 10
@@ -109,7 +110,7 @@ void reverse(int st1[], int st2[])
         printf("\nStack Underflow");
     }
     else
-    {   printf("sfter reverse:\n");
+    {   printf("after reverse:\n");
         for(i=top2;i>-1;i--)
         {
             printf(" %d\n", st2[i]);

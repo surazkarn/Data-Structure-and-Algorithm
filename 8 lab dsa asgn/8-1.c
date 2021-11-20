@@ -9,7 +9,7 @@
 #define MAX 10
 int st[MAX];
 int top = -1;
-
+ 
 void push(int st[], int val);
 int pop(int st[]);
 void isempty();
