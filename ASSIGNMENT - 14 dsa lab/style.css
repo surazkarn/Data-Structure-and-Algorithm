@@ -1,0 +1,71 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+  }
+  body {
+    background-color: azure;
+  }
+  #main-heading,
+  #myName {
+    text-align: center;
+    margin: 8px;
+  }
+  .IDs {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .container {
+    width: 90%;
+    margin: auto;
+    background-color: bisque;
+    padding: 30px;
+    border: 1px solid black;
+    overflow: auto;
+    margin-bottom: 20px;
+  }
+  .Day {
+    text-align: center;
+  }
+  .GitHub {
+    font-size: smaller;
+    float: right;
+    font-weight: bold;
+  }
+  h4 {
+    margin-bottom: 5px;
+  }
+  ol {
+    margin-bottom: 10px;
+  }
+  
+  li {
+    position: relative;
+    left: 16px;
+  }
+  
+  #progress {
+    height: 15px;
+    width: 88%;
+    background-color: honeydew;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 8px;
+    overflow: hidden;
+    font-size: xx-small;
+    text-align: right;
+    color: aliceblue;
+  }
+  #done {
+    background-color: green;
+    border-radius: 8px;
+    margin: auto;
+    height: 98%;
+    float: left;
+    padding: 1.4px;
+    padding-right: 5px;
+  }
+  
